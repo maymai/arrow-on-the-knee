@@ -13,3 +13,6 @@ being cheeky!
 
 
 So, writing a ticket's reference in [] on a commit links the jira issue to the branch!
+
+
+What is funny is that a previously linked ticket is not updated unless you specify them on the commit!
